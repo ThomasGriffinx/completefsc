@@ -143,7 +143,7 @@
 				
 			</span>
 			<p>
-				InContent by <a href="http://bit.ly/BrunoTw" title="Follow Bruno Rodrigues">Bruno Rodrigues.</a> | Images from <a href="http://www.dribbble.com" title="Dribbble">Dribbble</a>.
+				Full Site @ <a href="http://bit.ly/BrunoTw" title="Flooring Supply Centre">Flooring Supply Centre.</a>
 			</p>
 
 		</section>
