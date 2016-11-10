@@ -41,7 +41,7 @@ img {
 <!-- OLD -->
 
 			<div class="pic">
-		    <img src="img/Amtico3.JPG" class="pic-image" alt="Pic"/>
+		    <img src="img/Amtico3.jpg" class="pic-image" alt="Pic"/>
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
 		        <h2>Amtico</h2>
@@ -51,7 +51,7 @@ img {
 
 
 			<div class="pic">
-		    <img src="img/Amtico2.JPG" class="pic-image" alt="Pic"/>
+		    <img src="img/Amtico2.jpg" class="pic-image" alt="Pic"/>
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
 		        <h2>Amtico</h2>
@@ -60,7 +60,7 @@ img {
 			</div>
 
 	<div class="pic">
-		    <img src="img/Amtico.JPG" class="pic-image" alt="Pic"/>
+		    <img src="img/Amtico.jpg" class="pic-image" alt="Pic"/>
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
 		        <h2>Amtico Kite Design</h2>
