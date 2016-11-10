@@ -60,7 +60,7 @@ img {
 			</div>
 
 	<div class="pic">
-		    <img src="img/Amtico.jpg" class="pic-image" alt="Pic"/>
+		    <img src="img/Amtico.JPG" class="pic-image" alt="Pic"/>
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
 		        <h2>Amtico Kite Design</h2>
