@@ -1,310 +1,157 @@
-<!DOCTYPE HTML>
-<html>
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Completed Floors by FSC Merseyside</title>
-<!-- Behavioral Meta Data -->
-	<meta name="apple-mobile-web-app-capable" content="yes">
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <link rel="icon" type="image/png" href="img/small-logo-01.png">
-    <link href='http://fonts.googleapis.com/css?family=Roboto:400,900,900italic,700italic,700,500italic,400italic,500,300italic,300' rel='stylesheet' type='text/css'>
-	<link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
-	<link href='style.css' rel='stylesheet' type='text/css'>
-	</head>
+	<title>Completed by Flooring Supply Centre</title>
+	<meta charset="utf-8" />
+	
+	<!-- Main CSS -->
+	<link rel="stylesheet" href="css/sass-compiled.css" />
 
+	<!-- Modrnizr Lib -->
+	<script src="libs/modernizr.js" type="text/javascript"></script>
+	
+	<!-- Viewport -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
 <body>
+	<!-- Header with title-->
+	<header>
+		<div class="wrapper">
+			<h1>InContent</h1>
+			<p>Image content with description building with CSS3 and LESS/SASS.</p>
+		</div>
+	</header>
+	
+	<!-- Begin of Effects -->
 
-<a name="ancre"></a>
+	<section class="wrapper cl">
+		<!--Effect: Bottom to Top -->
+		<div class="pic">
+		    <img src="img/0.jpeg" class="pic-image" alt="Pic"/>
+		    <span class="pic-caption bottom-to-top">
+		        <h1 class="pic-title">Bottom to Top</h1>
+		        <p>Hi, this is a simple example =D</p>
+		    </span>
+		</div>
 
-<!-- CACHE -->
-<div class="cache"></div>
+		<!--Effect: Top to Bottom -->
+		<div class="pic">
+		    <img src="img/0-2.jpeg" class="pic-image" alt="Pic"/>
+		    <span class="pic-caption top-to-bottom">
+		        <h1 class="pic-title">Top to Bottom</h1>
+		        <p>Hi, this is a simple example =D</p>
+		    </span>
+		</div>
+		<!--Effect: Left to Right -->
+		<div class="pic">
+		    <img src="img/0-3.jpeg" class="pic-image" alt="Pic"/>
+		    <span class="pic-caption left-to-right">
+		        <h1 class="pic-title">Left to Right</h1>
+		        <p>Hi, this is a simple example =D</p>
+		    </span>
+		</div>
 
-<!-- HEADER -->
+		<!--Effect: Right to Left -->
+		<div class="pic">
+		    <img src="img/04.jpg" class="pic-image" alt="Pic"/>
+		    <span class="pic-caption right-to-left">
+		        <h1 class="pic-title">Right to Left</h1>
+		        <p>Hi, this is a simple example =D</p>
+		    </span>
+		</div>
 
-<div id="wrapper-header">
-	<div id="main-header" class="object">
-		<div class="logo"><img src="img/logo.png" alt="logo fsc" height="38" width="90"></div>
-        <div id="stripes"></div>
-    </div>
-</div>
+		<!--Effect: Rotate More -->
+		<div class="pic">
+		    <img src="img/05.jpg" class="pic-image" alt="Pic"/>
+		    <span class="pic-caption rotate-in">
+		        <h1 class="pic-title">Rotate In</h1>
+		        <p>Hi, this is a simple example =D</p>
+		    </span>
+		</div>
 
-<!-- NAVBAR -->
+		<!--Effect: Rotate LESS -->
+		<div class="pic">
+		    <img src="img/06.jpg" class="pic-image" alt="Pic"/>
+		    <span class="pic-caption rotate-out">
+		        <h1 class="pic-title">Rotate Out</h1>
+		        <p>Hi, this is a simple example =D</p>
+		    </span>
+		</div>
 
-	<div id="wrapper-navbar">
-		<div class="navbar object">
-    		<div id="wrapper-sorting">
-            <div id="wrapper-title-1">
-            <div class="top-rated object"><a href ="http://flooringsupplycentre.co.uk/index.php?Page=1">Visit our full site</a></div>
-            	<div id="fleche-nav-1"></div>
-    		</div>
-               </div>
-           
-<!-- FILTER -->
+		<!--Effect: Open Up -->
+		<div class="pic pic-3d">
+		    <img src="img/07.jpg" class="pic-image" alt="Pic"/>
+		    <span class="pic-caption open-up">
+		        <h1 class="pic-title">Open Up</h1>
+		        <p>Hi, this is a simple example =D</p>
+		    </span>
+		</div>
 
-<div id="main-container-menu" class="object">
-    	<div class="container-menu">
-        	
-            <div id="main-cross">
-            	<div id="cross-menu"></div>
-            </div>
-            
-            <div id="main-small-logo">
-            	<div class="small-logo"></div>
-            </div>
-            
-            <div id="main-premium-ressource">
-                <div class="premium-ressource"><a href="#">Premium resources</a></div>
-            </div>
-            
-            <div id="main-themes">
-                <div class="themes"><a href="#">Latest themes</a></div>
-            </div>
-            
-            <div id="main-psd">
-                <div class="psd"><a href="#">PSD goodies</a></div>
-            </div>
-                
-            <div id="main-ai">
-                <div class="ai"><a href="#">Illustrator freebies</a></div>
-            </div>
-            
-            <div id="main-font">
-                <div class="font"><a href="#">Free fonts</a></div>
-            </div>
-            
-            <div id="main-photo">
-                <div class="photo"><a href="#">Free stock photos</a></div>
-            </div>
-            
-        </div>
-    </div>
+		<!--Effect: Open Down -->
+		<div class="pic pic-3d">
+		    <img src="img/08.jpg" class="pic-image" alt="Pic"/>
+		    <span class="pic-caption open-down">
+		        <h1 class="pic-title">Open Down</h1>
+		        <p>Hi, this is a simple example =D</p>
+		    </span>
+		</div>
 
+		<!--Effect: Open Left -->
+		<div class="pic pic-3d">
+		    <img src="img/09.jpg" class="pic-image" alt="Pic"/>
+		    <span class="pic-caption open-left">
+		        <h1 class="pic-title">Open Left</h1>
+		        <p>Hi, this is a simple example =D</p>
+		    </span>
+		</div>
 
+		<!--Effect: Open Right -->
+		<div class="pic pic-3d">
+		    <img src="img/10.jpg" class="pic-image" alt="Pic"/>
+		    <span class="pic-caption open-right">
+		        <h1 class="pic-title">Open Right</h1>
+		        <p>Hi, this is a simple example =D</p>
+		    </span>
+		</div>
 
-<!-- PORTFOLIO -->
+		<!--Effect: Come Left -->
+		<div class="pic pic-3d">
+		    <img src="img/11.jpg" class="pic-image" alt="Pic"/>
+		    <span class="pic-caption come-left">
+		        <h1 class="pic-title">Come Left</h1>
+		        <p>Hi, this is a simple example =D</p>
+		    </span>
+		</div>
 
-	<div id="wrapper-container">
-    
-		<div class="container object">
+		<!--Effect: Come Right -->
+		<div class="pic pic-3d">
+		    <img src="img/12.jpg" class="pic-image" alt="Pic"/>
+		    <span class="pic-caption come-right">
+		        <h1 class="pic-title">Come Right</h1>
+		        <p>Hi, this is a simple example =D</p>
+		    </span>
+		</div>
 
-			<div id="main-container-image">
-                       
-					<section class="work">
+		
+	</section>
+	<!-- End of effects -->
 
-						<figure class="white">
-							<a href="#">
-								<img src="img/c1.JPG" alt="" />
-								<dl>
-									<dt>Supply & Fit @ FSC</dt>
-									<dd> Call us direct for the best prices and service in the UK 0151 521 5221</dd>	
-								</dl>
-							</a>
-                            <div id="wrapper-part-info">
-                            	<div id="part-info"></div>
-							</div>
-                        </figure>	
+	<footer>
+		<section class="wrapper">
+			<span class="pull-right">
+				
+			</span>
+			<p>
+				InContent by <a href="http://bit.ly/BrunoTw" title="Follow Bruno Rodrigues">Bruno Rodrigues.</a> | Images from <a href="http://www.dribbble.com" title="Dribbble">Dribbble</a>.
+			</p>
 
-						<figure class="white">
-							<a href="#">
-								<img src="img/c2.JPG" alt="" />
-								<dl>
-									<dt>Supply & Fit @ FSC</dt>
-									<dd>Call us direct for the best prices and service in the UK 0151 521 5221</dd>	
-								</dl>
-							</a>	
-                            <div id="wrapper-part-info">
-                            
-                            	<div id="part-info"></div>
-							</div>
-						</figure>	
+		</section>
+	</footer>
 
-						<figure class="white">
-							<a href="#">
-								<img src="img/c3.JPG" alt="" />
-								<dl>
-									<dt>Supply & Fit @ FSC</dt>
-									<dd>Call us direct for the best prices and service in the UK 0151 521 5221</dd>	
-								</dl>
-							</a>
-                            <div id="wrapper-part-info">
-                         
-                            	<div id="part-info"></div>
-							</div>
-						</figure>	
-
-							<figure class="white">
-							<a href="#">
-								<img src="img/cc4.JPG" alt="" />
-								<dl>
-									<dt>Supply & Fit @ FSC</dt>
-									<dd>Call us direct for the best prices and service in the UK 0151 521 5221</dd>	
-								</dl>
-							</a>
-                            <div id="wrapper-part-info">
-                         
-                            	<div id="part-info"> </div>
-							</div>
-						</figure>	
-
-										<figure class="white">
-							<a href="#">
-								<img src="img/c1.JPG" alt="" />
-								<dl>
-									<dt>Supply & Fit @ FSC</dt>
-									<dd> Call us direct for the best prices and service in the UK 0151 521 5221</dd>	
-								</dl>
-							</a>
-                            <div id="wrapper-part-info">
-                            	<div id="part-info"></div>
-							</div>
-                        </figure>	
-
-						<figure class="white">
-							<a href="#">
-								<img src="img/c2.JPG" alt="" />
-								<dl>
-									<dt>Supply & Fit @ FSC</dt>
-									<dd>Call us direct for the best prices and service in the UK 0151 521 5221</dd>	
-								</dl>
-							</a>	
-                            <div id="wrapper-part-info">
-                            
-                            	<div id="part-info"></div>
-							</div>
-						</figure>	
-
-						<figure class="white">
-							<a href="#">
-								<img src="img/c3.JPG" alt="" />
-								<dl>
-									<dt>Supply & Fit @ FSC</dt>
-									<dd>Call us direct for the best prices and service in the UK 0151 521 5221</dd>	
-								</dl>
-							</a>
-                            <div id="wrapper-part-info">
-                         
-                            	<div id="part-info"></div>
-							</div>
-						</figure>	
-
-							<figure class="white">
-							<a href="#">
-								<img src="img/c4.JPG" alt="" />
-								<dl>
-									<dt>Supply & Fit @ FSC</dt>
-									<dd>Call us direct for the best prices and service in the UK 0151 521 5221</dd>	
-								</dl>
-							</a>
-                            <div id="wrapper-part-info">
-                         
-                            	<div id="part-info"> </div>
-							</div>
-						</figure>
-
-					</section>
-                    
-				</div>	
-            	    
-			</div>
-
-
-		<div class="oldnew">
-        	<div class="wrapper-oldnew-prev">
-            	<div id="oldnew-prev"></div>
-        	</div>
-            <div class="wrapper-oldnew-next">
-            	<div id="oldnew-next"></div>
-    		</div>
-        </div>
-	</div>  
-      
-
-    
-
-
-
-
-<!-- SCRIPT -->
-
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script type="text/javascript" src="js/jquery.scrollTo.min.js"></script>
-    <script type="text/javascript" src="js/jquery.localScroll.min.js"></script>
-    <script type="text/javascript" src="js/jquery-animate-css-rotate-scale.js"></script>
-	<script type="text/javascript" src="js/fastclick.min.js"></script>
-	<script type="text/javascript" src="js/jquery.animate-colors-min.js"></script>
-	<script type="text/javascript" src="js/jquery.animate-shadow-min.js"></script>    
-	<script type="text/javascript" src="js/main.js"></script>
+	<!-- TOUCH FRIENDLY IN MOBILE DEVICES -->
 	<script>
-
-/* PRELOADER */
-
-function preloader() {
-	if (document.images) {
-		var img1 = new Image();
-		var img2 = new Image();
-		var img3 = new Image();
-		var img4 = new Image();
-		var img5 = new Image();
-		var img6 = new Image();
-		var img7 = new Image();
-		var img8 = new Image();
-		var img9 = new Image();
-		var img10 = new Image();
-		var img11 = new Image();
-		var img12 = new Image();
-		var img13 = new Image();
-		var img14 = new Image();
-		var img15 = new Image();
-		var img16 = new Image();
-		var img17 = new Image();
-		var img18 = new Image();
-		var img19 = new Image();
-		var img20 = new Image();
-
-		img1.src = "img/psd-4.jpg";
-		img2.src = "img/font-1.jpg";
-		img3.src = "img/psd-1.jpg";
-		img4.src = "img/psd-2.jpg";
-		img5.src = "img/ai-1.jpg";
-		img6.src = "img/theme-2.jpg";
-		img7.src = "img/psd-3.jpg";
-		img8.src = "img/font-2.jpg";
-		img9.src = "img/font-3.jpg";
-		img10.src = "img/ai-2.jpg";
-		img11.src = "img/icons-1.jpg";
-		img12.src = "img/ui-1.jpg";
-		img13.src = "img/font-5.jpg";
-		img14.src = "img/theme-2.jpg";
-		img15.src = "img/psd-5.jpg";
-		img16.src = "img/icons-3.jpg";
-		img17.src = "img/font-4.jpg";
-		img18.src = "img/theme-3.jpg";
-		img19.src = "img/font-6.jpg";
-		img20.src = "img/theme-4.jpg";
-	}
-}
-function addLoadEvent(func) {
-	var oldonload = window.onload;
-	if (typeof window.onload != 'function') {
-		window.onload = func;
-	} else {
-		window.onload = function() {
-			if (oldonload) {
-				oldonload();
-			}
-			func();
-		}
-	}
-}
-addLoadEvent(preloader);
-
-
-
-</script>
-
-
+		document.addEventListener("touchstart", function(){}, true);
+	</script>
 </body>
-
-
 </html>
