@@ -24,6 +24,7 @@ img {
 	<header>
 		<div class="wrapper">
 			<h1>Installed by Flooring Supply Centre</h1>
+			<h2>0151 521 5221</h2>
 		</div>
 	</header>
 	
@@ -128,7 +129,7 @@ img {
 				
 			</span>
 			<p>
-				Visit our Full Site @<a href="http://flooringsupplycentre.co.uk/index.php?Page=1" title="Flooring Supply Centre">Flooring Supply Centre</a>or call us directly for a free consultation or call us directly 0151 521 5221
+				Visit our Full Site @<a href="http://flooringsupplycentre.co.uk/index.php?Page=1" title="Flooring Supply Centre">Flooring Supply Centre</a> or call us directly for a free consultation or call us directly 0151 521 5221
 			</p>
 
 		</section>
