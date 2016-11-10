@@ -25,24 +25,24 @@
 		<div class="pic">
 		    <img src="img/0-3.jpeg" class="pic-image" alt="Pic"/>
 		    <span class="pic-caption left-to-right">
-		        <h1 class="pic-title">Left to Right</h1>
-		        <p>Hi, this is a simple example =D</p>
+		        <h1 class="pic-title">Supply & Fit</h1>
+		        <p>Call us directly for a free consultation.  We will beat any genuine quote and have been trading since 1960!</p>
 		    </span>
 		</div>
 
 			<div class="pic">
 		    <img src="img/0-2.jpeg" class="pic-image" alt="Pic"/>
 		    <span class="pic-caption left-to-right">
-		        <h1 class="pic-title">Left to Right</h1>
-		        <p>Hi, this is a simple example =D</p>
+		        <h1 class="pic-title">Supply & Fit</h1>
+		        <p>We will beat any genuine quote and have been trading since 1960!</p>
 		    </span>
 		</div>
 
 			<div class="pic">
 		    <img src="img/0.jpeg" class="pic-image" alt="Pic"/>
 		    <span class="pic-caption left-to-right">
-		        <h1 class="pic-title">Left to Right</h1>
-		        <p>Hi, this is a simple example =D</p>
+		        <h1 class="pic-title">Supply & Fit</h1>
+		        <p>We will beat any genuine quote and have been trading since 1960!</p>
 		    </span>
 		</div>
 
