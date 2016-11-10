@@ -29,6 +29,14 @@ img {
 	
 <!--BEGIN NEW CONTENT-->
 
+		<div class="pic">
+		    <img src="img/quickstep.jpg" class="pic-image" alt="Pic"/>
+		    <span class="pic-caption left-to-right">
+		        <h1 class="pic-title">Supply & Fit</h1>
+		        <h2>Quickstep</h2>
+		        <p>Call us directly for a free consultation.  We will beat any genuine quote and have been trading since 1960!</p>
+		    </span>
+		</div>
 
 	<div class="pic">
 		    <img src="img/karndeanwithkeyline.JPG" class="pic-image" alt="Pic"/>
