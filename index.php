@@ -57,7 +57,7 @@
 
 						<figure class="white">
 							<a href="#">
-								<img src="img/c1.jpg" alt="" />
+								<img src="img/c1.JPG" alt="" />
 								<dl>
 									<dt>Supply & Fit @ FSC</dt>
 									<dd> Call us direct for the best prices and service in the UK 0151 521 5221</dd>	
@@ -70,7 +70,7 @@
 
 						<figure class="white">
 							<a href="#">
-								<img src="img/c2.jpg" alt="" />
+								<img src="img/c2.JPG" alt="" />
 								<dl>
 									<dt>Supply & Fit @ FSC</dt>
 									<dd>Call us direct for the best prices and service in the UK 0151 521 5221</dd>	
@@ -84,7 +84,7 @@
 
 						<figure class="white">
 							<a href="#">
-								<img src="img/c3.jpg" alt="" />
+								<img src="img/c3.JPG" alt="" />
 								<dl>
 									<dt>Supply & Fit @ FSC</dt>
 									<dd>Call us direct for the best prices and service in the UK 0151 521 5221</dd>	
@@ -98,7 +98,7 @@
 
 							<figure class="white">
 							<a href="#">
-								<img src="img/q4.jpg" alt="" />
+								<img src="img/cc4.JPG" alt="" />
 								<dl>
 									<dt>Supply & Fit @ FSC</dt>
 									<dd>Call us direct for the best prices and service in the UK 0151 521 5221</dd>	
@@ -112,7 +112,7 @@
 
 										<figure class="white">
 							<a href="#">
-								<img src="img/c1.jpg" alt="" />
+								<img src="img/c1.JPG" alt="" />
 								<dl>
 									<dt>Supply & Fit @ FSC</dt>
 									<dd> Call us direct for the best prices and service in the UK 0151 521 5221</dd>	
@@ -125,7 +125,7 @@
 
 						<figure class="white">
 							<a href="#">
-								<img src="img/c2.jpg" alt="" />
+								<img src="img/c2.JPG" alt="" />
 								<dl>
 									<dt>Supply & Fit @ FSC</dt>
 									<dd>Call us direct for the best prices and service in the UK 0151 521 5221</dd>	
@@ -139,7 +139,7 @@
 
 						<figure class="white">
 							<a href="#">
-								<img src="img/c3.jpg" alt="" />
+								<img src="img/c3.JPG" alt="" />
 								<dl>
 									<dt>Supply & Fit @ FSC</dt>
 									<dd>Call us direct for the best prices and service in the UK 0151 521 5221</dd>	
@@ -153,7 +153,7 @@
 
 							<figure class="white">
 							<a href="#">
-								<img src="img/q4.jpg" alt="" />
+								<img src="img/c4.JPG" alt="" />
 								<dl>
 									<dt>Supply & Fit @ FSC</dt>
 									<dd>Call us direct for the best prices and service in the UK 0151 521 5221</dd>	
@@ -164,7 +164,7 @@
                             	<div id="part-info"> </div>
 							</div>
 						</figure>
-						
+
 					</section>
                     
 				</div>	
