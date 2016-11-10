@@ -23,7 +23,7 @@
 	</header>
 	
 		<div class="pic">
-		    <img src="img/0-3.jpeg" class="pic-image" alt="Pic"/>
+		    <img src="img/c1.JPG" class="pic-image" alt="Pic"/>
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
 		        <p>Call us directly for a free consultation.  We will beat any genuine quote and have been trading since 1960!</p>
@@ -31,7 +31,7 @@
 		</div>
 
 			<div class="pic">
-		    <img src="img/0-2.jpeg" class="pic-image" alt="Pic"/>
+		    <img src="img/c2.JPG" class="pic-image" alt="Pic"/>
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
 		        <p>We will beat any genuine quote and have been trading since 1960!</p>
@@ -39,7 +39,23 @@
 		</div>
 
 			<div class="pic">
-		    <img src="img/0.jpeg" class="pic-image" alt="Pic"/>
+		    <img src="img/c3.JPG" class="pic-image" alt="Pic"/>
+		    <span class="pic-caption left-to-right">
+		        <h1 class="pic-title">Supply & Fit</h1>
+		        <p>We will beat any genuine quote and have been trading since 1960!</p>
+		    </span>
+		</div>
+
+			<div class="pic">
+		    <img src="img/c4.JPG" class="pic-image" alt="Pic"/>
+		    <span class="pic-caption left-to-right">
+		        <h1 class="pic-title">Supply & Fit</h1>
+		        <p>We will beat any genuine quote and have been trading since 1960!</p>
+		    </span>
+		</div>
+
+			<div class="pic">
+		    <img src="img/c5.JPG" class="pic-image" alt="Pic"/>
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
 		        <p>We will beat any genuine quote and have been trading since 1960!</p>
