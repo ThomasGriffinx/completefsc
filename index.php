@@ -19,7 +19,6 @@
 	<header>
 		<div class="wrapper">
 			<h1>Installed by Flooring Supply Centre</h1>
-			<p>Visit our <a href ="http://flooringsupplycentre.co.uk/index.php?Page=1">full site </a> for more information or call us directly on 0151 521 5221</p>
 		</div>
 	</header>
 	
@@ -55,7 +54,7 @@
 				
 			</span>
 			<p>
-				Full Site @ <a href="http://flooringsupplycentre.co.uk/index.php?Page=1" title="Flooring Supply Centre">Flooring Supply Centre.</a>
+				Visit our Full Site @ <a href="http://flooringsupplycentre.co.uk/index.php?Page=1" title="Flooring Supply Centre">Flooring Supply Centre or call us directly for a free consultation 0151 521 5221</a>
 			</p>
 
 		</section>
