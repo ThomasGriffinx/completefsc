@@ -23,7 +23,7 @@ img {
 	<!-- Header with title-->
 	<header>
 		<div class="wrapper">
-			<h1>Installed by Flooring Supply Centre</h1>
+			<h1>Recently Installed by Flooring Supply Centre</h1>
 			<h2>0151 521 5221</h2>
 		</div>
 	</header>
@@ -39,6 +39,7 @@ img {
 		        <h1 class="pic-title">Supply & Fit</h1>
 		        <h2>Amtico</h2>
 		        <p>Call us directly for a free consultation.  We will beat any genuine quote and have been trading since 1960!</p>
+		         <h1>0151 521 5221</h1>
 		    </span>
 			</div>
 
@@ -49,6 +50,7 @@ img {
 		        <h1 class="pic-title">Supply & Fit</h1>
 		        <h2>Amtico</h2>
 		        <p>Call us directly for a free consultation.  We will beat any genuine quote and have been trading since 1960!</p>
+		         <h1>0151 521 5221</h1>
 		    </span>
 			</div>
 
@@ -58,6 +60,7 @@ img {
 		        <h1 class="pic-title">Supply & Fit</h1>
 		        <h2>Amtico Kite Design</h2>
 		        <p>Call us directly for a free consultation.  We will beat any genuine quote and have been trading since 1960!</p>
+		         <h1>0151 521 5221</h1>
 		    </span>
 		</div>
 
@@ -67,6 +70,7 @@ img {
 		        <h1 class="pic-title">Supply & Fit</h1>
 		        <h2>Quickstep</h2>
 		        <p>Call us directly for a free consultation.  We will beat any genuine quote and have been trading since 1960!</p>
+		         <h1>0151 521 5221</h1>
 		    </span>
 		</div>
 
@@ -76,6 +80,7 @@ img {
 		        <h1 class="pic-title">Supply & Fit</h1>
 		        <h2>Karndean with Key Line</h2>
 		        <p>Call us directly for a free consultation.  We will beat any genuine quote and have been trading since 1960!</p>
+		         <h1>0151 521 5221</h1>
 		    </span>
 		</div>
 
@@ -86,6 +91,7 @@ img {
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
 		        <p>Call us directly for a free consultation.  We will beat any genuine quote and have been trading since 1960!</p>
+		         <h1>0151 521 5221</h1>
 		    </span>
 		</div>
 
@@ -94,6 +100,7 @@ img {
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit </h1>
 		        <p>Call us directly for a free consultation. We will beat any genuine quote and have been trading since 1960!</p>
+		         <h1>0151 521 5221</h1>
 		    </span>
 		</div>
 
@@ -102,6 +109,7 @@ img {
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
 		        <p>Call us directly for a free consultation. We will beat any genuine quote and have been trading since 1960!</p>
+		         <h1>0151 521 5221</h1>
 		    </span>
 		</div>
 
@@ -110,6 +118,7 @@ img {
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
 		        <p>Call us directly for a free consultation. We will beat any genuine quote and have been trading since 1960!</p>
+		         <h1>0151 521 5221</h1>
 		    </span>
 		</div>
 
@@ -118,6 +127,7 @@ img {
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
 		        <p>Call us directly for a free consultation. We will beat any genuine quote and have been trading since 1960!</p>
+		        <h1>0151 521 5221</h1>
 		    </span>
 		</div>
 
@@ -129,7 +139,7 @@ img {
 				
 			</span>
 			<p>
-				Visit our Full Site @<a href="http://flooringsupplycentre.co.uk/index.php?Page=1" title="Flooring Supply Centre">Flooring Supply Centre</a> or call us directly for a free consultation or call us directly 0151 521 5221
+				Visit our Full Site @<a href="http://flooringsupplycentre.co.uk/index.php?Page=1" title="Flooring Supply Centre">Flooring Supply Centre</a> or call us directly for a free consultation 0151 521 5221
 			</p>
 
 		</section>
