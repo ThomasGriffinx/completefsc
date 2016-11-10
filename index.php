@@ -12,7 +12,12 @@
 	
 	<!-- Viewport -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+	
+<style>
+img {
+    image-orientation: from-image;
+}
+</style>
 </head>
 <body>
 	<!-- Header with title-->
