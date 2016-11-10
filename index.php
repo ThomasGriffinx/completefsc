@@ -30,14 +30,6 @@ img {
 <!--BEGIN NEW CONTENT-->
 
 
-
-
-
-
-
-
-
-
 <!-- OLD -->
 
 			<div class="pic">
@@ -145,7 +137,7 @@ img {
 				
 			</span>
 			<p>
-				Visit our Full Site @ <a href="http://flooringsupplycentre.co.uk/index.php?Page=1" title="Flooring Supply Centre">Flooring Supply Centre or call us directly for a free consultation 0151 521 5221</a>
+				Visit our Full Site @<a href="http://flooringsupplycentre.co.uk/index.php?Page=1" title="Flooring Supply Centre">Flooring Supply Centre</a>or call us directly for a free consultation or call us directly 0151 521 5221
 			</p>
 
 		</section>
