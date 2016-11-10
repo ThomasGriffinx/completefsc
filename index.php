@@ -54,15 +54,6 @@ img {
 		    </span>
 			</div>
 
-	<div class="pic">
-		    <img src="img/Amtico.JPG" class="pic-image" alt="Pic"/>
-		    <span class="pic-caption left-to-right">
-		        <h1 class="pic-title">Supply & Fit</h1>
-		        <h2>Amtico Kite Design</h2>
-		        <p>Call us directly for a free consultation.  We will beat any genuine quote and have been trading since 1960!</p>
-		         <h1>0151 521 5221</h1>
-		    </span>
-		</div>
 
 		<div class="pic">
 		    <img src="img/quickstep.jpg" class="pic-image" alt="Pic"/>
@@ -139,7 +130,7 @@ img {
 				
 			</span>
 			<p>
-				Visit our Full Site @<a href="http://flooringsupplycentre.co.uk/index.php?Page=1" title="Flooring Supply Centre">Flooring Supply Centre</a> or call us directly for a free consultation 0151 521 5221
+				Visit our full site @<a href="http://flooringsupplycentre.co.uk/index.php?Page=1" title="Flooring Supply Centre">Flooring Supply Centre</a> or call us directly for a free consultation 0151 521 5221
 			</p>
 
 		</section>
