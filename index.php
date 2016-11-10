@@ -12,7 +12,7 @@
 	
 	<!-- Viewport -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	
+
 <style>
 img {
     image-orientation: from-image;
@@ -29,7 +29,7 @@ img {
 	
 		<div class="pic">
 		    <img src="img/c1.JPG" class="pic-image" alt="Pic"/>
-		    <span class="pic-caption bottom-to-top">
+		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
 		        <p>Call us directly for a free consultation.  We will beat any genuine quote and have been trading since 1960!</p>
 		    </span>
@@ -38,32 +38,33 @@ img {
 			<div class="pic">
 		    <img src="img/c2.JPG" class="pic-image" alt="Pic"/>
 		    <span class="pic-caption left-to-right">
-		        <h1 class="pic-title">Supply & Fit</h1>
-		        <p>We will beat any genuine quote and have been trading since 1960!</p>
+		        <h1 class="pic-title">Supply & Fit by Flooring Supply Centre</h1>
+		        <h2>Something here<h2>
+		        <p>Call us directly for a free consultation. We will beat any genuine quote and have been trading since 1960!</p>
 		    </span>
 		</div>
 
 			<div class="pic">
 		    <img src="img/c3.JPG" class="pic-image" alt="Pic"/>
-		    <span class="pic-caption bottom-to-top">
+		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
-		        <p>We will beat any genuine quote and have been trading since 1960!</p>
+		        <p>Call us directly for a free consultation. We will beat any genuine quote and have been trading since 1960!</p>
 		    </span>
 		</div>
 
 			<div class="pic">
 		    <img src="img/c4.JPG" class="pic-image" alt="Pic"/>
-		    <span class="pic-caption bottom-to-top">
+		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
-		        <p>We will beat any genuine quote and have been trading since 1960!</p>
+		        <p>Call us directly for a free consultation. We will beat any genuine quote and have been trading since 1960!</p>
 		    </span>
 		</div>
 
 			<div class="pic">
 		    <img src="img/c5.JPG" class="pic-image" alt="Pic"/>
-		    <span class="pic-caption bottom-to-top">
+		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
-		        <p>We will beat any genuine quote and have been trading since 1960!</p>
+		        <p>Call us directly for a free consultation. We will beat any genuine quote and have been trading since 1960!</p>
 		    </span>
 		</div>
 
