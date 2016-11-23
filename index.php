@@ -9,7 +9,12 @@
 
 	<!-- Modrnizr Lib -->
 	<script src="libs/modernizr.js" type="text/javascript"></script>
-	
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 	<!-- Viewport -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -27,10 +32,10 @@ h2 {
 	<!-- Header with title-->
 	<header>
 		<div class="wrapper">
-			<h1>Flooring Supply Centre</h1>
-			
-			<a href="http://flooringsupplycentre.co.uk/index.php?Page=1"><h2>Visit Full Site</a>
-			0151 521 5221 </h2>
+			<h1>Updates from Flooring Supply Centre</h1>
+		
+			<h2>0151 521 5221</h2>
+
 		</div>
 	</header>
 	
@@ -38,7 +43,18 @@ h2 {
 
 
 <!-- OLD -->
-
+						<section>
+							<a href="#" class="image"><img src="img/blackfriday.png" alt="" data-position="top center" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>Black Friday Deals</h2>
+									<p>Call in to our store to receive our excluse Black Friday prices. Call 0151 521 5221 to find out more.</p>
+									<ul class="actions">
+										<li><a href="http://flooringsupplycentre.co.uk/index.php?Page=1" class="button">Visit Full Site</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
 	
 
 
@@ -148,7 +164,16 @@ h2 {
 
 	<!-- TOUCH FRIENDLY IN MOBILE DEVICES -->
 	<script>
+
 		document.addEventListener("touchstart", function(){}, true);
 	</script>
+
+		<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
 </body>
 </html>
