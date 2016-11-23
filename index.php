@@ -17,10 +17,8 @@
 img {
     image-orientation: from-image;
 }
+h2 {
 
-title2 {
-	font-style: bold;
-	text-decoration-color: white;
 	color: white;
 }
 </style>
