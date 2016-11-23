@@ -41,7 +41,7 @@ h2 {
 	
 <!--BEGIN NEW CONTENT-->
 
-
+<br> </br>
 <!-- OLD -->
 						<section>
 				
@@ -57,13 +57,13 @@ h2 {
 						</section>
 	
 
-<br> </br>
-
+<h2> Recently Installed </h2>
+<br></br>
 			<div class="pic">
 		    <img src="img/Amtico3.jpg" class="pic-image" alt="Pic"/>
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
-		        <h2>Amtico</h2>
+		      
 		        <p>Call us directly, We will beat any genuine quote!</p>
 		        <h2>0151 521 5221</h2>
 		    </span>
@@ -75,7 +75,7 @@ h2 {
 		    <img src="img/Amtico2.jpg" class="pic-image" alt="Pic"/>
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
-		        <h2>Amtico</h2>
+		       
 		        <p>Call us directly, We will beat any genuine quote!</p>
 		        <h2>0151 521 5221</h2>
 		    </span>
@@ -86,7 +86,7 @@ h2 {
 		    <img src="img/quickstep.jpg" class="pic-image" alt="Pic"/>
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
-		        <h2>Quickstep</h2>
+		        
 		     <p>Call us directly, We will beat any genuine quote!</p>
 		        <h2>0151 521 5221</h2>
 		    </span>
@@ -96,7 +96,7 @@ h2 {
 		    <img src="img/karndeanwithkeyline.JPG" class="pic-image" alt="Pic"/>
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
-		        <h2>Karndean with Key Line</h2>
+		   
 	    <p>Call us directly, We will beat any genuine quote!</p>
 		        <h2>0151 521 5221</h2>
 		    </span>
