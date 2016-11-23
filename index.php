@@ -44,7 +44,7 @@ h2 {
 
 <!-- OLD -->
 						<section>
-							<a href="#" class="image"><img src="img/blackfriday.png" alt="" data-position="top center" /></a>
+				
 							<div class="content">
 								<div class="inner">
 									<h2>Black Friday Deals</h2>
@@ -63,7 +63,7 @@ h2 {
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
 		        <h2>Amtico</h2>
-		        <p>Call us directly for a free consultation.  We will beat any genuine quote and have been trading since 1960!</p>
+		        <p>Call us directly, We will beat any genuine quote!</p>
 		        <h2>0151 521 5221</h2>
 		    </span>
 			</div>
@@ -75,8 +75,8 @@ h2 {
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
 		        <h2>Amtico</h2>
-		        <p>Call us directly for a free consultation.  We will beat any genuine quote and have been trading since 1960!</p>
-		  <h2>0151 521 5221</h2>
+		        <p>Call us directly, We will beat any genuine quote!</p>
+		        <h2>0151 521 5221</h2>
 		    </span>
 			</div>
 
@@ -86,8 +86,8 @@ h2 {
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
 		        <h2>Quickstep</h2>
-		        <p>Call us directly for a free consultation.  We will beat any genuine quote and have been trading since 1960!</p>
-		      <h2>0151 521 5221</h2>
+		     <p>Call us directly, We will beat any genuine quote!</p>
+		        <h2>0151 521 5221</h2>
 		    </span>
 		</div>
 
@@ -96,8 +96,8 @@ h2 {
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
 		        <h2>Karndean with Key Line</h2>
-		        <p>Call us directly for a free consultation.  We will beat any genuine quote and have been trading since 1960!</p>
-		         <h2>0151 521 5221</h2>
+	    <p>Call us directly, We will beat any genuine quote!</p>
+		        <h2>0151 521 5221</h2>
 		    </span>
 		</div>
 
@@ -107,8 +107,8 @@ h2 {
 		    <img src="img/c1.JPG" class="pic-image" alt="Pic"/>
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
-		        <p>Call us directly for a free consultation.  We will beat any genuine quote and have been trading since 1960!</p>
-		          <h2>0151 521 5221</h2>
+		       <p>Call us directly, We will beat any genuine quote!</p>
+		        <h2>0151 521 5221</h2>
 		    </span>
 		</div>
 
@@ -116,8 +116,8 @@ h2 {
 		    <img src="img/c2.JPG" class="pic-image" alt="Pic"/>
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit </h1>
-		        <p>Call us directly for a free consultation. We will beat any genuine quote and have been trading since 1960!</p>
-		          <h2>0151 521 5221</h2>
+		     <p>Call us directly, We will beat any genuine quote!</p>
+		        <h2>0151 521 5221</h2>
 		    </span>
 		</div>
 
@@ -125,8 +125,8 @@ h2 {
 		    <img src="img/c3.JPG" class="pic-image" alt="Pic"/>
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
-		        <p>Call us directly for a free consultation. We will beat any genuine quote and have been trading since 1960!</p>
-		         <h2>0151 521 5221</h2>
+		    <p>Call us directly, We will beat any genuine quote!</p>
+		        <h2>0151 521 5221</h2>
 		    </span>
 		</div>
 
@@ -134,8 +134,8 @@ h2 {
 		    <img src="img/c4.JPG" class="pic-image" alt="Pic"/>
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
-		        <p>Call us directly for a free consultation. We will beat any genuine quote and have been trading since 1960!</p>
-		      <h2>0151 521 5221</h2>
+		      <p>Call us directly, We will beat any genuine quote!</p>
+		        <h2>0151 521 5221</h2>
 		    </span>
 		</div>
 
@@ -143,7 +143,7 @@ h2 {
 		    <img src="img/c5.JPG" class="pic-image" alt="Pic"/>
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
-		        <p>Call us directly for a free consultation. We will beat any genuine quote and have been trading since 1960!</p>
+		     <p>Call us directly, We will beat any genuine quote!</p>
 		        <h2>0151 521 5221</h2>
 		    </span>
 		</div>
