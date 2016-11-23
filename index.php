@@ -58,7 +58,6 @@ h2 {
 	
 
 <h2> Recently Installed </h2>
-<br></br>
 			<div class="pic">
 		    <img src="img/Amtico3.jpg" class="pic-image" alt="Pic"/>
 		    <span class="pic-caption left-to-right">
