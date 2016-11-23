@@ -17,9 +17,11 @@
 img {
     image-orientation: from-image;
 }
+
 title2 {
 	font-style: bold;
 	text-decoration-color: white;
+	color: white;
 }
 </style>
 </head>
@@ -48,9 +50,6 @@ title2 {
 		        <h2>0151 521 5221</h2>
 		    </span>
 			</div>
-
-
-
 
 
 			<div class="pic">
