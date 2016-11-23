@@ -52,14 +52,6 @@ h2 {
 		    </span>
 			</div>
 
-					<div class="pic">
-		    <img src="img/blackfriday.png" class="pic-image" alt="Pic"/>
-		    <span class="pic-caption left-to-right">
-		        <h1 class="pic-title">Black Friday Deals</h1>
-		        <p>Call in this week, Friday 25th to receive our exclusive Black Friday prices!</p>
-		        <h2>0151 521 5221</h2>
-		    </span>
-			</div>
 
 
 			<div class="pic">
