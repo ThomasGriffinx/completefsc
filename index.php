@@ -33,8 +33,7 @@ h2 {
 	<header>
 		<div class="wrapper">
 			<h1>Updates from Flooring Supply Centre</h1>
-		
-			<h2>0151 521 5221</h2>
+			<p> 0151 521 5221 </p>
 
 		</div>
 	</header>
