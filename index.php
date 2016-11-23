@@ -28,9 +28,8 @@ h2 {
 	<header>
 		<div class="wrapper">
 			<h1>Flooring Supply Centre</h1>
-			<div class="title2">
+			
 			<a href="http://flooringsupplycentre.co.uk/index.php?Page=1"><h2>Visit Full Site</a>
-			</div>
 			0151 521 5221 </h2>
 		</div>
 	</header>
@@ -40,14 +39,7 @@ h2 {
 
 <!-- OLD -->
 
-				<div class="pic">
-		    <img src="img/blackfriday.png" class="pic-image" alt="Pic"/>
-		    <span class="pic-caption left-to-right">
-		        <h1 class="pic-title">Black Friday Deals</h1>
-		        <p>Call in this week, Friday 25th to receive our exclusive Black Friday prices!</p>
-		        <h2>0151 521 5221</h2>
-		    </span>
-			</div>
+	
 
 
 			<div class="pic">
@@ -56,6 +48,15 @@ h2 {
 		        <h1 class="pic-title">Supply & Fit</h1>
 		        <h2>Amtico</h2>
 		        <p>Call us directly for a free consultation.  We will beat any genuine quote and have been trading since 1960!</p>
+		        <h2>0151 521 5221</h2>
+		    </span>
+			</div>
+
+					<div class="pic">
+		    <img src="img/blackfriday.png" class="pic-image" alt="Pic"/>
+		    <span class="pic-caption left-to-right">
+		        <h1 class="pic-title">Black Friday Deals</h1>
+		        <p>Call in this week, Friday 25th to receive our exclusive Black Friday prices!</p>
 		        <h2>0151 521 5221</h2>
 		    </span>
 			</div>
