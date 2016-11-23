@@ -57,6 +57,7 @@ h2 {
 						</section>
 	
 
+<br> </br>
 
 			<div class="pic">
 		    <img src="img/Amtico3.jpg" class="pic-image" alt="Pic"/>
