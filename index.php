@@ -23,8 +23,8 @@ img {
 	<!-- Header with title-->
 	<header>
 		<div class="wrapper">
-			<h1>Recently Installed by Flooring Supply Centre</h1>
-			<h2>0151 521 5221</h2>
+			<h1>Flooring Supply Centre</h1>
+			<a href="http://flooringsupplycentre.co.uk/index.php?Page=1"><h2>Visit Full Site</a> 0151 521 5221 </h2>
 		</div>
 	</header>
 	
@@ -34,10 +34,9 @@ img {
 <!-- OLD -->
 
 				<div class="pic">
-		    <img src="img/Amtico3.jpg" class="pic-image" alt="Pic"/>
+		    <img src="img/blackfriday.png" class="pic-image" alt="Pic"/>
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Black Friday Deals</h1>
-		        <h2>Black Friday</h2>
 		        <p>Call in this week Friday 25th to receive our exclusive Black Friday prices!<br><br/>  We will beat any genuine quote and have been trading since 1960!</p>
 		        <h2>0151 521 5221</h2>
 		    </span>
