@@ -47,7 +47,7 @@ h2 {
 							<div class="content">
 								<div class="inner">
 									<h2>Black Friday Deals</h2>
-									<p>Visit our Dunningsbridge Road Showroom to receive our exclusive Black Friday prices <br> </br>Call 0151 521 5221 to find out more</p>
+									<p>Visit our Dunnings Bridge Road Showroom to receive our exclusive Black Friday prices <br> </br>Call 0151 521 5221 to find out more</p>
 									<ul class="actions">
 										<li><a href="http://flooringsupplycentre.co.uk/index.php?Page=1" class="button">Visit Full Site</a></li>
 									</ul>
