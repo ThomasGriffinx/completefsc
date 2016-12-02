@@ -41,6 +41,16 @@ h2 {
 
 <br> </br>
 <!-- OLD -->
+
+				            <div class="content">
+ 								<div class="inner">
+ 									<h2>Ted Todd</h2>
+ 									<p>Visit our Dunnings Bridge Road Showroom to receive our exclusive Ted Todd prices <br> </br>Call 0151 521 5221 to find out more</p>
+ 									<ul class="actions">
+ 									<li><a href="http://flooringsupplycentre.co.uk/index.php?Page=1" class="button">Visit our Ted Todd Virtual Showroom</a></li>
+ 									</ul>
+ 								</div>
+
 			
 	
 
