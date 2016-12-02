@@ -34,7 +34,6 @@ h2 {
 		<div class="wrapper">
 			<h1>Updates from Flooring Supply Centre</h1>
 			<p> 0151 521 5221 </p>
-
 		</div>
 	</header>
 	
@@ -42,21 +41,10 @@ h2 {
 
 <br> </br>
 <!-- OLD -->
-						<section>
-				
-							<div class="content">
-								<div class="inner">
-									<h2>Black Friday Deals</h2>
-									<p>Visit our Dunnings Bridge Road Showroom to receive our exclusive Black Friday prices <br> </br>Call 0151 521 5221 to find out more</p>
-									<ul class="actions">
-										<li><a href="http://flooringsupplycentre.co.uk/index.php?Page=1" class="button">Visit Full Site</a></li>
-									</ul>
-								</div>
-							</div>
-						</section>
+			
 	
 
-<h2> Recently Installed </h2>
+		<h2> Recently Installed </h2>
 			<div class="pic">
 		    <img src="img/Amtico3.jpg" class="pic-image" alt="Pic"/>
 		    <span class="pic-caption left-to-right">
