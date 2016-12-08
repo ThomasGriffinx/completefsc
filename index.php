@@ -29,13 +29,6 @@ h2 {
 </style>
 </head>
 <body>
-	<!-- Header with title-->
-	<header>
-		<div class="wrapper">
-			<h1>Updates from Flooring Supply Centre</h1>
-			<p> 0151 521 5221 </p>
-		</div>
-	</header>
 	
 <!--BEGIN NEW CONTENT-->
 
@@ -44,12 +37,11 @@ h2 {
 
 			
 
-		<h2> Recently Installed </h2>
+		<h2> Recently Installed by Flooring Supply Centre </h2>
 			<div class="pic">
 		    <img src="img/Amtico3.jpg" class="pic-image" alt="Pic"/>
 		    <span class="pic-caption left-to-right">
 		        <h1 class="pic-title">Supply & Fit</h1>
-		      
 		        <p>Call us directly, We will beat any genuine quote!</p>
 		        <h2>0151 521 5221</h2>
 		    </span>
